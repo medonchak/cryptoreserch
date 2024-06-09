@@ -6,13 +6,13 @@ function App() {
   const test =  tg.initDataUnsafe.user
   return (
     <div className="App">
-      <header className="App-header">
+    
       
       {test}
              
        
         
-      </header>
+   
     </div>
   );
 }
